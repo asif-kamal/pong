@@ -4,12 +4,13 @@ COORDINATES = ((30, 7), (-30, 7), (-30, -7), (30, -7))
 
 
 class Paddle(turtle.Turtle):
-    def __init__(self):
+    def __init__(self, x, y):
         super().__init__()
         turtle.register_shape("rectangle", COORDINATES)
         self.penup()
         self.shape("rectangle")
         self.color("white", "white")
+        self.goto(x, y)
         #self.speed(0)
 
 

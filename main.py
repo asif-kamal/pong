@@ -1,6 +1,5 @@
 import turtle
-import right_paddle
-import left_paddle
+import paddle
 
 main_screen = turtle.Screen()
 main_screen.bgcolor("black")
@@ -9,8 +8,8 @@ main_screen.title("Pong")
 main_screen.tracer(0)
 
 game_is_on = True
-right_paddle = right_paddle.RightPaddle()
-left_paddle = left_paddle.LeftPaddle()
+right_paddle = paddle.Paddle(380, 0)
+left_paddle = paddle.Paddle(-390, 0)
 
 main_screen.listen()
 main_screen.onkey(lambda: right_paddle.move_paddle_up(50), "Up")
