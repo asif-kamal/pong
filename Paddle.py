@@ -10,11 +10,12 @@ class Paddle(turtle.Turtle):
         self.penup()
         self.shape("rectangle")
         self.color("white", "white")
+        self.speed(0)
 
     def move_paddle_up(self, y_change):
-        if self.ycor() < 246:
+        if self.ycor() < 260:
             self.goto(self.xcor(), self.ycor() + y_change)
 
     def move_paddle_down(self, y_change):
-        if self.ycor() > -246:
+        if self.ycor() > -260:
             self.goto(self.xcor(), self.ycor() - y_change)

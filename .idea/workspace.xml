@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d5ed9e3-f936-4be0-a73e-4110a1b5d8c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeftPaddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paddle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paddles.py" beforeDir="false" afterPath="$PROJECT_DIR$/RightPaddle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Paddle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightPaddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/RightPaddle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764727025529</updated>
       <workItem from="1764727026576" duration="8368000" />
-      <workItem from="1764897413222" duration="1802000" />
+      <workItem from="1764897413222" duration="2801000" />
     </task>
     <servers />
   </component>
@@ -93,7 +92,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pong$Paddles.coverage" NAME="Paddles Coverage Results" MODIFIED="1764895823652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pong$Screen.coverage" NAME="Screen Coverage Results" MODIFIED="1764728237594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pong$main.coverage" NAME="main Coverage Results" MODIFIED="1764899193454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pong$main.coverage" NAME="main Coverage Results" MODIFIED="1764984877627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pong$RightPaddle.coverage" NAME="RightPaddle Coverage Results" MODIFIED="1764727635154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
